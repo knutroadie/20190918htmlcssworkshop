@@ -1,0 +1,25 @@
+h1 {
+  color:#002F6C;
+  background-color: white;
+}
+body {
+    background-color: lightgreen;
+}
+
+li {
+  background-color: green;
+}
+  
+  li:nth-child(2) {
+  background-color: magenta;
+}
+
+#make-me-orange {
+  background-color: orange;
+}
+
+.red{background-color:red;}
+
+img {
+    width: 100%;
+}
